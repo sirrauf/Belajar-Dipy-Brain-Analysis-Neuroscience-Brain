@@ -3,10 +3,10 @@
 Dokumentasi ini dibuat oleh **PT Ananda Technology Solution** sebagai panduan teknis komprehensif untuk implementasi, eksekusi, dan interpretasi klinis/teknis dari sistem *3D Brain Tractography* berbasis Python native.
 
 # Gambar Output
-![Gambar_SS_Output]()
+![Gambar_SS_Output](https://github.com/sirrauf/Belajar-Dipy-Brain-Analysis-Neuroscience-Brain/blob/main/SS/SS.png?raw=true)
 
 # Video presentasi belajar Dipy Brain Analysis Neurosains Otak
-[Klik untuk nonton)(https://youtu.be/8ji7o3dB8Sk)
+[Klik untuk nonton](https://youtu.be/8ji7o3dB8Sk)
 
 ---
 
